@@ -12,6 +12,8 @@ Escreva aqui os conteúdos aprendidos.
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
 
 # if else
+### A função do if else e permite executar alguns comandos se uma condição for verdadeira e outros se ela for falsa. 
+#### Atividade feita no CodePen
  
  ```js
 const nome = prompt("Qual e o seu nome?");
@@ -27,7 +29,8 @@ if (combo == "sim") {
 ```
 
 # switch case
-
+### A função switch case é uma estrutura de controle de fluxo que permite executar um bloco de código com base na avaliação de uma expressão.
+#### Atividade feita no CodePen
  ```js
 const remedio = prompt(`Qual remedio o semhor quer comprar`);
 const bairro = prompt(`Qual o bairro que o senhor mora`);
@@ -49,6 +52,3 @@ switch (remedio) {
     console.log(`O produto ${remedio}, não esta disponivel.`);
 }
 ```
-
-# 
-
