@@ -46,9 +46,29 @@ switch (remedio) {
   case `nimesulida`:
     console.log(`O produto ${remedio}, custa R$ 16,73.`);
   case `tadalafila`:
-    console.log(`O produto ${remedio}, custa R$ 79,90.`);
-    break;
-  default:
-    console.log(`O produto ${remedio}, não esta disponivel.`);
-}
 ```
+
+# Array
+### Os arrays são usados para organizar e acessar dados relacionados de forma eficiente.
+#### Atividade feita no CodePen
+```js
+Array
+
+const livros = ["Javascript", "ECMAScript", "MongoDB", "Batman Piada Mortal", "Batman A queda do Morcego", "Batman que ri"]; 
+
+console.log(livros[2]); 
+
+ 
+let consulta = livros.indexOf("MongoDB");
+
+```
+
+
+# Atividades
+https://codepen.io/luis-Filipe-magno-gomes/pen/xxorZQr
+
+https://codepen.io/luis-Filipe-magno-gomes/pen/oNroEZZ
+
+https://codepen.io/luis-Filipe-magno-gomes/pen/WNqdYmr
+
+
