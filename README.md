@@ -174,13 +174,19 @@ Me chamo Luis Filipe Magno Gomes, tenho 16 anos e atualmente estudo no mediotec 
 
 
 # Atividades
+
+## If else
 https://codepen.io/luis-Filipe-magno-gomes/pen/xxorZQr
 
+## switch case
 https://codepen.io/luis-Filipe-magno-gomes/pen/oNroEZZ
 
+## Array
 https://codepen.io/luis-Filipe-magno-gomes/pen/WNqdYmr
 
+## Função
 https://codepen.io/luis-Filipe-magno-gomes/pen/wvVzGVG
 
+## HTML
 https://codepen.io/luis-Filipe-magno-gomes/pen/yLmJBPX
 
