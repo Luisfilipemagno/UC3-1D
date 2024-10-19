@@ -65,7 +65,7 @@ let consulta = livros.indexOf("MongoDB");
 
 ```
 
-# Função
+# Functions
 ### Sendo estruturas essenciais do código, as funções permitem definir um bloco de código reutilizável que pode ser executado muitas vezes dentro de um programa.
 #### Atividade feita no CodePen
 ```js
@@ -184,7 +184,7 @@ https://codepen.io/luis-Filipe-magno-gomes/pen/oNroEZZ
 ## Array
 https://codepen.io/luis-Filipe-magno-gomes/pen/WNqdYmr
 
-## Função
+## Functions
 https://codepen.io/luis-Filipe-magno-gomes/pen/wvVzGVG
 
 ## HTML
