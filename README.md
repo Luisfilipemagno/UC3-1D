@@ -6,6 +6,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 Escreva aqui os conteúdos aprendidos.
 
 . Fundamentos do Javascript
+
 . HTML
 
 
