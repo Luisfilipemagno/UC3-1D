@@ -5,6 +5,7 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
+. Fundamentos do Javascript
 . 
 
 
@@ -63,6 +64,20 @@ let consulta = livros.indexOf("MongoDB");
 
 ```
 
+# Função
+### Sendo estruturas essenciais do código, as funções permitem definir um bloco de código reutilizável que pode ser executado muitas vezes dentro de um programa.
+### Atividade feita no CodePen
+```js
+let min = prompt("digite o minimo:")
+let max = prompt("digite o maximo:")
+
+function aleatorio(min, max) {
+  return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+console.log(aleatorio(min, max))
+
+```
+
 
 # Atividades
 https://codepen.io/luis-Filipe-magno-gomes/pen/xxorZQr
@@ -70,5 +85,7 @@ https://codepen.io/luis-Filipe-magno-gomes/pen/xxorZQr
 https://codepen.io/luis-Filipe-magno-gomes/pen/oNroEZZ
 
 https://codepen.io/luis-Filipe-magno-gomes/pen/WNqdYmr
+
+https://codepen.io/luis-Filipe-magno-gomes/pen/wvVzGVG
 
 
